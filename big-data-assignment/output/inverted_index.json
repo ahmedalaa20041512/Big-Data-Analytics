@@ -1,0 +1,581 @@
+{
+  "reliable": [
+    "book_01.txt"
+  ],
+  "aggregate": [
+    "book_01.txt"
+  ],
+  "input": [
+    "book_01.txt"
+  ],
+  "careful": [
+    "book_01.txt"
+  ],
+  "large": [
+    "book_01.txt"
+  ],
+  "many": [
+    "book_01.txt",
+    "book_02.txt"
+  ],
+  "machines": [
+    "book_01.txt"
+  ],
+  "split": [
+    "book_01.txt"
+  ],
+  "share": [
+    "book_01.txt"
+  ],
+  "can": [
+    "book_01.txt",
+    "book_02.txt",
+    "book_05.txt"
+  ],
+  "of": [
+    "book_01.txt"
+  ],
+  "values": [
+    "book_01.txt"
+  ],
+  "same": [
+    "book_01.txt"
+  ],
+  "terms": [
+    "book_01.txt"
+  ],
+  "information": [
+    "book_01.txt"
+  ],
+  "and": [
+    "book_01.txt",
+    "book_02.txt",
+    "book_03.txt",
+    "book_04.txt",
+    "book_05.txt"
+  ],
+  "distributed": [
+    "book_01.txt"
+  ],
+  "across": [
+    "book_01.txt"
+  ],
+  "intermediate": [
+    "book_01.txt",
+    "book_03.txt"
+  ],
+  "that": [
+    "book_01.txt",
+    "book_04.txt"
+  ],
+  "noise": [
+    "book_01.txt"
+  ],
+  "emit": [
+    "book_01.txt",
+    "book_02.txt"
+  ],
+  "all": [
+    "book_01.txt"
+  ],
+  "test": [
+    "book_01.txt"
+  ],
+  "duplicate": [
+    "book_01.txt"
+  ],
+  "analytics": [
+    "book_01.txt",
+    "book_04.txt"
+  ],
+  "handling": [
+    "book_01.txt"
+  ],
+  "reduce": [
+    "book_01.txt",
+    "book_05.txt"
+  ],
+  "process": [
+    "book_01.txt"
+  ],
+  "value": [
+    "book_01.txt"
+  ],
+  "pairs": [
+    "book_01.txt"
+  ],
+  "the": [
+    "book_01.txt",
+    "book_04.txt",
+    "book_05.txt"
+  ],
+  "tokenization": [
+    "book_01.txt"
+  ],
+  "normalization": [
+    "book_01.txt"
+  ],
+  "tasks": [
+    "book_01.txt"
+  ],
+  "volumes": [
+    "book_01.txt"
+  ],
+  "requires": [
+    "book_01.txt"
+  ],
+  "students": [
+    "book_01.txt",
+    "book_03.txt",
+    "book_04.txt"
+  ],
+  "systems": [
+    "book_01.txt"
+  ],
+  "counting": [
+    "book_01.txt"
+  ],
+  "accuracy": [
+    "book_01.txt"
+  ],
+  "map": [
+    "book_01.txt",
+    "book_05.txt"
+  ],
+  "key": [
+    "book_01.txt"
+  ],
+  "ingestion": [
+    "book_02.txt"
+  ],
+  "advanced": [
+    "book_02.txt"
+  ],
+  "big": [
+    "book_02.txt"
+  ],
+  "begin": [
+    "book_02.txt"
+  ],
+  "keys": [
+    "book_02.txt",
+    "book_05.txt"
+  ],
+  "combine": [
+    "book_02.txt"
+  ],
+  "outputs": [
+    "book_02.txt"
+  ],
+  "parsing": [
+    "book_02.txt"
+  ],
+  "a": [
+    "book_02.txt"
+  ],
+  "reducers": [
+    "book_02.txt"
+  ],
+  "intentionally": [
+    "book_02.txt"
+  ],
+  "read": [
+    "book_02.txt"
+  ],
+  "another": [
+    "book_02.txt"
+  ],
+  "pipelines": [
+    "book_02.txt"
+  ],
+  "with": [
+    "book_02.txt",
+    "book_03.txt",
+    "book_05.txt"
+  ],
+  "this": [
+    "book_02.txt",
+    "book_05.txt"
+  ],
+  "log": [
+    "book_02.txt"
+  ],
+  "mapper": [
+    "book_02.txt"
+  ],
+  "meaningful": [
+    "book_02.txt"
+  ],
+  "sample": [
+    "book_02.txt"
+  ],
+  "for": [
+    "book_02.txt",
+    "book_03.txt",
+    "book_05.txt"
+  ],
+  "analysis": [
+    "book_02.txt",
+    "book_04.txt"
+  ],
+  "from": [
+    "book_02.txt"
+  ],
+  "testing": [
+    "book_02.txt",
+    "book_05.txt"
+  ],
+  "partial": [
+    "book_02.txt"
+  ],
+  "repeats": [
+    "book_02.txt"
+  ],
+  "line": [
+    "book_02.txt"
+  ],
+  "file": [
+    "book_02.txt",
+    "book_05.txt"
+  ],
+  "independent": [
+    "book_02.txt"
+  ],
+  "words": [
+    "book_02.txt"
+  ],
+  "extract": [
+    "book_02.txt"
+  ],
+  "often": [
+    "book_02.txt"
+  ],
+  "data": [
+    "book_02.txt",
+    "book_03.txt"
+  ],
+  "each": [
+    "book_02.txt",
+    "book_04.txt"
+  ],
+  "composite": [
+    "book_02.txt"
+  ],
+  "counts": [
+    "book_02.txt"
+  ],
+  "totals": [
+    "book_03.txt"
+  ],
+  "sorted": [
+    "book_03.txt"
+  ],
+  "before": [
+    "book_03.txt",
+    "book_05.txt"
+  ],
+  "validate": [
+    "book_03.txt"
+  ],
+  "expected": [
+    "book_03.txt"
+  ],
+  "supports": [
+    "book_03.txt"
+  ],
+  "small": [
+    "book_03.txt"
+  ],
+  "shuffled": [
+    "book_03.txt"
+  ],
+  "when": [
+    "book_03.txt"
+  ],
+  "starts": [
+    "book_03.txt"
+  ],
+  "observed": [
+    "book_03.txt"
+  ],
+  "comparing": [
+    "book_03.txt"
+  ],
+  "educational": [
+    "book_03.txt"
+  ],
+  "their": [
+    "book_03.txt"
+  ],
+  "own": [
+    "book_03.txt"
+  ],
+  "results": [
+    "book_03.txt"
+  ],
+  "partitioned": [
+    "book_03.txt"
+  ],
+  "cloud": [
+    "book_03.txt"
+  ],
+  "scalable": [
+    "book_03.txt"
+  ],
+  "practice": [
+    "book_03.txt",
+    "book_05.txt"
+  ],
+  "framework": [
+    "book_03.txt"
+  ],
+  "projects": [
+    "book_03.txt"
+  ],
+  "helps": [
+    "book_03.txt"
+  ],
+  "parallel": [
+    "book_03.txt"
+  ],
+  "storage": [
+    "book_03.txt"
+  ],
+  "is": [
+    "book_03.txt"
+  ],
+  "processing": [
+    "book_03.txt"
+  ],
+  "corpora": [
+    "book_03.txt"
+  ],
+  "enables": [
+    "book_03.txt"
+  ],
+  "debug": [
+    "book_03.txt"
+  ],
+  "correctly": [
+    "book_03.txt"
+  ],
+  "are": [
+    "book_03.txt"
+  ],
+  "engineers": [
+    "book_03.txt"
+  ],
+  "correctness": [
+    "book_03.txt"
+  ],
+  "reduction": [
+    "book_03.txt"
+  ],
+  "mapreduce": [
+    "book_03.txt"
+  ],
+  "execution": [
+    "book_03.txt"
+  ],
+  "by": [
+    "book_03.txt"
+  ],
+  "frequency": [
+    "book_04.txt"
+  ],
+  "contain": [
+    "book_04.txt"
+  ],
+  "index": [
+    "book_04.txt"
+  ],
+  "term": [
+    "book_04.txt"
+  ],
+  "improve": [
+    "book_04.txt"
+  ],
+  "it": [
+    "book_04.txt"
+  ],
+  "an": [
+    "book_04.txt"
+  ],
+  "documents": [
+    "book_04.txt"
+  ],
+  "casing": [
+    "book_04.txt"
+  ],
+  "numbers": [
+    "book_04.txt"
+  ],
+  "in": [
+    "book_04.txt"
+  ],
+  "empty": [
+    "book_04.txt"
+  ],
+  "edge": [
+    "book_04.txt"
+  ],
+  "should": [
+    "book_04.txt"
+  ],
+  "includes": [
+    "book_04.txt",
+    "book_05.txt"
+  ],
+  "reducer": [
+    "book_04.txt",
+    "book_05.txt"
+  ],
+  "inverted": [
+    "book_04.txt"
+  ],
+  "confidence": [
+    "book_04.txt"
+  ],
+  "text": [
+    "book_04.txt",
+    "book_05.txt"
+  ],
+  "cases": [
+    "book_04.txt"
+  ],
+  "punctuation": [
+    "book_04.txt"
+  ],
+  "keyword": [
+    "book_04.txt"
+  ],
+  "language": [
+    "book_04.txt"
+  ],
+  "mixed": [
+    "book_04.txt"
+  ],
+  "lines": [
+    "book_04.txt"
+  ],
+  "repeatable": [
+    "book_04.txt"
+  ],
+  "indexing": [
+    "book_04.txt"
+  ],
+  "extraction": [
+    "book_04.txt"
+  ],
+  "maps": [
+    "book_04.txt"
+  ],
+  "tokens": [
+    "book_04.txt"
+  ],
+  "letter": [
+    "book_04.txt"
+  ],
+  "experiments": [
+    "book_04.txt"
+  ],
+  "to": [
+    "book_04.txt"
+  ],
+  "remove": [
+    "book_04.txt"
+  ],
+  "normalize": [
+    "book_04.txt"
+  ],
+  "determinism": [
+    "book_04.txt"
+  ],
+  "include": [
+    "book_04.txt"
+  ],
+  "traffic": [
+    "book_05.txt"
+  ],
+  "custom": [
+    "book_05.txt"
+  ],
+  "shuffle": [
+    "book_05.txt"
+  ],
+  "partitioners": [
+    "book_05.txt"
+  ],
+  "involve": [
+    "book_05.txt"
+  ],
+  "logic": [
+    "book_05.txt"
+  ],
+  "combiner": [
+    "book_05.txt"
+  ],
+  "cause": [
+    "book_05.txt"
+  ],
+  "repository": [
+    "book_05.txt"
+  ],
+  "workloads": [
+    "book_05.txt"
+  ],
+  "behavior": [
+    "book_05.txt"
+  ],
+  "multiple": [
+    "book_05.txt"
+  ],
+  "phase": [
+    "book_05.txt"
+  ],
+  "unbalanced": [
+    "book_05.txt"
+  ],
+  "tuning": [
+    "book_05.txt"
+  ],
+  "cross": [
+    "book_05.txt"
+  ],
+  "may": [
+    "book_05.txt"
+  ],
+  "skewed": [
+    "book_05.txt"
+  ],
+  "files": [
+    "book_05.txt"
+  ],
+  "now": [
+    "book_05.txt"
+  ],
+  "datasets": [
+    "book_05.txt"
+  ],
+  "aggregation": [
+    "book_05.txt"
+  ],
+  "verifies": [
+    "book_05.txt"
+  ],
+  "performance": [
+    "book_05.txt"
+  ],
+  "stragglers": [
+    "book_05.txt"
+  ],
+  "network": [
+    "book_05.txt"
+  ],
+  "plain": [
+    "book_05.txt"
+  ],
+  "combiners": [
+    "book_05.txt"
+  ]
+}
